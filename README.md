@@ -1,6 +1,6 @@
 ## Therapeutic Life Work Support 
 
-* As a part of my university project, I actively participated in a dynamic team of five individuals, undertaking a substantial project. Our objective was to create a user-friendly and responsive website for a     therapist to support the young children.
+* As a part of my university project, I actively participated in a dynamic team of five individuals, undertaking a substantial project. Our objective was to create a user-friendly and responsive website for a  therapist to support young children.
 
 * Client Consultation: We conducted thorough consultations with the client to understand their requirements and define the website's objectives.
   
@@ -15,3 +15,5 @@
 * Testing: Testing was conducted to ensure the website's responsiveness, accessibility, and cross-browser compatibility.
 
 * Launch and Maintenance: We successfully launched the website and provided ongoing support and maintenance.
+
+### This project has copyrights 
